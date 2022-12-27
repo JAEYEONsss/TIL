@@ -9,4 +9,4 @@
 * 카테고리에 해당하는 글을 작성한다.
 --- 
 ### Spring
-* [SOLID(좋은 객체 지향 설계의 5가지 원칙)](#https://github.com/JAEYEONsss/TIL/blob/main/Spring/SOLID.md)
+* [SOLID(좋은 객체 지향 설계의 5가지 원칙)](https://github.com/JAEYEONsss/TIL/blob/main/Spring/SOLID.md)
