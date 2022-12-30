@@ -15,4 +15,4 @@
 * [마크다운에서 링크걸기](https://github.com/JAEYEONsss/TIL/blob/main/MarkDown/Link.md)
 
 ### Tip
-* [인텔리제이 단축키](https://github.com/JAEYEONsss/TIL/blob/main/IntelliJ/ShortCut.md)
+* [인텔리제이 팁](https://github.com/JAEYEONsss/TIL/blob/main/IntelliJ/ShortCut.md)
