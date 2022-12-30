@@ -10,6 +10,7 @@
 --- 
 ### Spring
 * [SOLID(좋은 객체 지향 설계의 5가지 원칙)](https://github.com/JAEYEONsss/TIL/blob/main/Spring/SOLID.md)
+* [IoC, DI, 컨테이너](https://github.com/JAEYEONsss/TIL/blob/main/Spring/Basic.md)
 
 ### MarkDown
 * [마크다운에서 링크걸기](https://github.com/JAEYEONsss/TIL/blob/main/MarkDown/Link.md)
