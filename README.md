@@ -16,6 +16,7 @@
 
 ### MarkDown
 * [마크다운에서 링크걸기](https://github.com/JAEYEONsss/TIL/blob/main/MarkDown/Link.md)
+* [마크다운 이미지 삽입](https://github.com/JAEYEONsss/TIL/blob/main/MarkDown/Image.md)
 
 ### Tip
 * [인텔리제이 팁](https://github.com/JAEYEONsss/TIL/blob/main/IntelliJ/ShortCut.md)
