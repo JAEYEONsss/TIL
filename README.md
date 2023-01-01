@@ -19,3 +19,7 @@
 
 ### Tip
 * [인텔리제이 팁](https://github.com/JAEYEONsss/TIL/blob/main/IntelliJ/ShortCut.md)
+
+### Algorithm
+- dynamic programming
+* [1로 만들기](https://github.com/JAEYEONsss/TIL/tree/main/DP/1463)
