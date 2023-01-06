@@ -85,3 +85,4 @@ public class OrderServiceImpl implements OrderService{
 ```
 
 * 위 코드 블록에서 볼 수 있듯이 훨씬 간결한 코드 작성이 가능해진다.
+* @RequiredArgsConstructor를 사용해서 final이 붙은 필드를 모아서 생성자를 자동으로 만들 수 있다.
