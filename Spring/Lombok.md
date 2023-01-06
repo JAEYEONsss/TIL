@@ -36,7 +36,7 @@ public class HelloLombok {
 }
 ```
 
-## 코드 예시 (Lombok 사용)
+## 코드 예시 (Lombok 사용 @Getter @Setter by annotation)
 ```Java
 import lombok.Getter;
 import lombok.Setter;
@@ -56,4 +56,32 @@ public class HelloLombok {
     }
 }
 ```
+
+## 코드 예시 (생성자 작성)
+```Java
+@Component
+public class OrderServiceImpl implements OrderService{
+
+    private final MemberRepository memberRepository;
+    private final DiscountPolicy discountPolicy;
+
+    @Autowired
+    public OrderServiceImpl(MemberRepository memberRepository, DiscountPolicy discountPolicy) 
+    {
+        this.memberRepository = memberRepository;
+        this.discountPolicy = discountPolicy;
+    }
+```
+
+## 코드 예시 (Lombok 사용 @RequiredArgsConstructor by annotation)
+```Java
+@Component
+@RequiredArgsConstructor
+public class OrderServiceImpl implements OrderService{
+
+    private final MemberRepository memberRepository;
+    private final DiscountPolicy discountPolicy;
+
+```
+
 * 위 코드 블록에서 볼 수 있듯이 훨씬 간결한 코드 작성이 가능해진다.
