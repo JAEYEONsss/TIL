@@ -21,7 +21,8 @@
 * [마크다운 링크 삽입](https://github.com/JAEYEONsss/TIL/blob/main/MarkDown/Code.md)
 
 ### Tip
-* [인텔리제이 팁](https://github.com/JAEYEONsss/TIL/blob/main/IntelliJ/ShortCut.md)
+* [인텔리제이 팁](https://github.com/JAEYEONsss/TIL/blob/main/TIP/ShortCut.md)
+* [백준 문제 입력 팁](https://github.com/JAEYEONsss/TIL/blob/main/TIP/BaekJoon.md)
 
 ### Algorithm
 - dynamic programming
