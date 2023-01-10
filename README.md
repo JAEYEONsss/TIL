@@ -29,3 +29,6 @@
 - dynamic programming
     * [1로 만들기](https://github.com/JAEYEONsss/TIL/tree/main/DP/1463)
     * [동물원](https://github.com/JAEYEONsss/TIL/tree/main/DP/1309)
+
+### 모각소
+* [1월 10일 스터디](https://github.com/JAEYEONsss/TIL/blob/main/MOGAKSO/0110/0110.md)
