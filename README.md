@@ -14,6 +14,7 @@
 * [스프링 컨테이너](https://github.com/JAEYEONsss/TIL/blob/main/Spring/SpringContainer.md)
 * [롬복이란?](https://github.com/JAEYEONsss/TIL/blob/main/Spring/Lombok.md)
 * [http 요청 로그 남기기](https://github.com/JAEYEONsss/TIL/blob/main/Spring/CheckLog.md)
+* [Mapping annotation](https://github.com/JAEYEONsss/TIL/blob/main/Spring/Mapping.md)
 
 
 ### MarkDown
@@ -24,6 +25,8 @@
 ### Tip
 * [인텔리제이 팁](https://github.com/JAEYEONsss/TIL/blob/main/TIP/ShortCut.md)
 * [백준 문제 입력 팁](https://github.com/JAEYEONsss/TIL/blob/main/TIP/BaekJoon.md)
+* [VScode 관련 팁](https://github.com/JAEYEONsss/TIL/blob/main/TIP/VScode.md)
+* [github 관련 팁](https://github.com/JAEYEONsss/TIL/blob/main/TIP/Github.md)
 
 ### Algorithm
 - dynamic programming
