@@ -15,6 +15,7 @@
 * [롬복이란?](https://github.com/JAEYEONsss/TIL/blob/main/Spring/Lombok.md)
 * [http 요청 로그 남기기](https://github.com/JAEYEONsss/TIL/blob/main/Spring/CheckLog.md)
 * [Mapping annotation](https://github.com/JAEYEONsss/TIL/blob/main/Spring/Mapping.md)
+* [로그 사용법](https://github.com/JAEYEONsss/TIL/blob/main/Spring/LogBasic.md)
 
 
 ### MarkDown
