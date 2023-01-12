@@ -8,6 +8,10 @@
 * URL을 controller 내의 method와 mapping할 때 사용하는 annotation이다.
 * value => mapping 되는 URL / method => HTTP method
 * Class level, Method level 모두 적용이 가능하다
+* url 다중 설정이 가능하다  
+```java
+@RequestMapping("/example1", "/example2")
+```
 
 # @GetMapping, @PostMapping
 ```java
