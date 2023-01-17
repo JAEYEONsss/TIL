@@ -16,7 +16,8 @@
 * [http 요청 로그 남기기](https://github.com/JAEYEONsss/TIL/blob/main/Spring/CheckLog.md)
 * [Mapping annotation](https://github.com/JAEYEONsss/TIL/blob/main/Spring/Mapping.md)
 * [로그 사용법](https://github.com/JAEYEONsss/TIL/blob/main/Spring/LogBasic.md)
-* [mapping annotation detail V1](https://github.com/JAEYEONsss/TIL/blob/main/Spring/MappingDetail.md)
+* [annotation detail V1](https://github.com/JAEYEONsss/TIL/blob/main/Spring/MappingDetail.md)
+* [annotation detail V2](https://github.com/JAEYEONsss/TIL/blob/main/MOGAKSO/0117/0117.md)
 
 
 ### MarkDown
@@ -37,3 +38,4 @@
 
 ### 모각소
 * [1월 10일 스터디](https://github.com/JAEYEONsss/TIL/blob/main/MOGAKSO/0110/0110.md)
+* [1월 17일 스터디](https://github.com/JAEYEONsss/TIL/blob/main/MOGAKSO/0117/0117.md)
