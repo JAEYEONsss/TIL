@@ -18,6 +18,7 @@
 * [로그 사용법](https://github.com/JAEYEONsss/TIL/blob/main/Spring/LogBasic.md)
 * [annotation detail V1](https://github.com/JAEYEONsss/TIL/blob/main/Spring/MappingDetail.md)
 * [annotation detail V2](https://github.com/JAEYEONsss/TIL/blob/main/MOGAKSO/0117/0117.md)
+* [실행환경과 테스트 환경의 분리](https://github.com/JAEYEONsss/TIL/blob/main/Spring/SeparationTest.md)
 
 
 ### MarkDown
