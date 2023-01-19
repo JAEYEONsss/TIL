@@ -13,3 +13,4 @@
 * cmd + e + enter : 이전 코드로 바로 이동 가능
 * soutv : System.out.println 생성
 * option + cmd + m : 로직을 method화 시킴
+* cmd + option + shift + L : 코드 줄 정리
