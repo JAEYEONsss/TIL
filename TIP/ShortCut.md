@@ -15,3 +15,4 @@
 * option + cmd + m : 로직을 method화 시킴
 * cmd + option + shift + L : 코드 줄 정리
 * cmd + shift + F : file 내에서 검색어 찾기
+* cmd + option + P : method 내에서 매개변수로 변환해줌
