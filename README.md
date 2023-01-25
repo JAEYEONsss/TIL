@@ -19,6 +19,7 @@
 * [annotation detail V1](https://github.com/JAEYEONsss/TIL/blob/main/Spring/MappingDetail.md)
 * [annotation detail V2](https://github.com/JAEYEONsss/TIL/blob/main/MOGAKSO/0117/0117.md)
 * [실행환경과 테스트 환경의 분리](https://github.com/JAEYEONsss/TIL/blob/main/Spring/SeparationTest.md)
+* [build.gradle 오류 발생](https://github.com/JAEYEONsss/TIL/blob/main/Spring/Error.md)
 
 
 ### MarkDown
