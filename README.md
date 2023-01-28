@@ -42,3 +42,4 @@
 ### 모각소
 * [1월 10일 스터디](https://github.com/JAEYEONsss/TIL/blob/main/MOGAKSO/0110/0110.md)
 * [1월 17일 스터디](https://github.com/JAEYEONsss/TIL/blob/main/MOGAKSO/0117/0117.md)
+* [1월 28일 스터디](https://github.com/JAEYEONsss/TIL/blob/main/MOGAKSO/0128/0128.md)
