@@ -4,7 +4,7 @@
 * 아무것도 하지 않은 사람보다, 조그마한 무언가라도 항상하자
 ---
 ## TIL 작성 규칙
-* 폴더와 파일 명은 영문으로 작성한다.
+* 폴더명은 영문, 파일명은 한글/영문 혼용이 가능하다.
 * 가독성있게 작성한다.
 * 카테고리에 해당하는 글을 작성한다.
 --- 
@@ -38,6 +38,9 @@
 - dynamic programming
     * [1로 만들기](https://github.com/JAEYEONsss/TIL/tree/main/DP/1463)
     * [동물원](https://github.com/JAEYEONsss/TIL/tree/main/DP/1309)
+    
+### AWS
+* [서버 배포 문제 해결 과정](https://github.com/JAEYEONsss/TIL/blob/main/AWS/%EB%AA%A8%EA%B0%81%EC%86%8C_0130_%EA%B4%80%EB%A0%A8.md)
 
 ### 모각소
 * [1월 10일 스터디](https://github.com/JAEYEONsss/TIL/blob/main/MOGAKSO/0110/0110.md)
