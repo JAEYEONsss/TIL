@@ -43,6 +43,7 @@
 ### 백준
 - Bronze
     * [2309번](https://github.com/JAEYEONsss/TIL/blob/main/Bronze/2309.py)
+    * [10808번](https://github.com/JAEYEONsss/TIL/blob/main/Bronze/10808.py)
     
 ### AWS
 * [서버 배포 문제 해결 과정](https://github.com/JAEYEONsss/TIL/blob/main/AWS/%EB%AA%A8%EA%B0%81%EC%86%8C_0130_%EA%B4%80%EB%A0%A8.md)
