@@ -33,6 +33,7 @@
 * [백준 문제 입력 팁](https://github.com/JAEYEONsss/TIL/blob/main/TIP/BaekJoon.md)
 * [VScode 관련 팁](https://github.com/JAEYEONsss/TIL/blob/main/TIP/VScode.md)
 * [github 관련 팁](https://github.com/JAEYEONsss/TIL/blob/main/TIP/Github.md)
+* [파이썬 코테 관련 라이브러리 팁](https://github.com/JAEYEONsss/TIL/blob/main/TIP/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC.md)
 
 ### Algorithm
 - dynamic programming
