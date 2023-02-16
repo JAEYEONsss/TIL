@@ -36,9 +36,7 @@
 * [파이썬 코테 관련 라이브러리 팁](https://github.com/JAEYEONsss/TIL/blob/main/TIP/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC.md)
 
 ### Algorithm
-- dynamic programming
-    * [1로 만들기](https://github.com/JAEYEONsss/TIL/tree/main/DP/1463)
-    * [동물원](https://github.com/JAEYEONsss/TIL/tree/main/DP/1309)
+
 
 ### 백준
 - Bronze
@@ -50,6 +48,9 @@
    
 - Silver
     * [9996번](https://github.com/JAEYEONsss/TIL/blob/main/Silver/9996.py)
+    * [2559번](https://github.com/JAEYEONsss/TIL/blob/main/Silver/2559.py)
+
+
 ### AWS
 * [서버 배포 문제 해결 과정](https://github.com/JAEYEONsss/TIL/blob/main/AWS/%EB%AA%A8%EA%B0%81%EC%86%8C_0130_%EA%B4%80%EB%A0%A8.md)
 
