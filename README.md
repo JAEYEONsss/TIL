@@ -53,6 +53,7 @@
     * [1940번](https://github.com/JAEYEONsss/TIL/blob/main/Silver/1940.py)
     * [3986번](https://github.com/JAEYEONsss/TIL/blob/main/Silver/3986.py)
     * [2828번](https://github.com/JAEYEONsss/TIL/blob/main/Silver/2828.py)
+    * [2910번](https://github.com/JAEYEONsss/TIL/blob/main/Silver/2910.py)
 
 
 ### AWS
