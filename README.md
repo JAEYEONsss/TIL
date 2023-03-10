@@ -61,6 +61,7 @@
     * [2178번](https://github.com/JAEYEONsss/TIL/blob/main/Silver/2178.py)
     * [2667번](https://github.com/JAEYEONsss/TIL/blob/main/Silver/2667.py)
     * [2468번](https://github.com/JAEYEONsss/TIL/blob/main/Silver/2468.py)
+    * [5014번](https://github.com/JAEYEONsss/TIL/blob/main/Silver/5014.py)
 
 
 ### AWS
