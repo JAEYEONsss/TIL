@@ -21,6 +21,7 @@
 * [실행환경과 테스트 환경의 분리](https://github.com/JAEYEONsss/TIL/blob/main/Spring/SeparationTest.md)
 * [build.gradle 오류 발생](https://github.com/JAEYEONsss/TIL/blob/main/Spring/Error.md)
 * [JPA 사용 시 콘솔에서 쿼리 확인](https://github.com/JAEYEONsss/TIL/blob/main/Spring/JPA_log.md)
+* [스프링 계층 구조 정리](https://github.com/JAEYEONsss/TIL/blob/main/Spring/LayerdArchitecture.md)
 
 
 ### MarkDown
