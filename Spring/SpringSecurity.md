@@ -30,6 +30,9 @@ JSON 웹 토큰은 선택적 서명 및 선택적 암호화를 사용하여 데�
 이 곳에서는 인증 방식, 권한 설정, 로그인 페이지 및 에러 페이지, 필터 설정 등 다양한 것을 설정할 수 있다.   
 물론, 본인이 원하는 위치와 클래스에서 설정할 수 있지만 코드의 가독성 혹은 유지보수성 때문에 config 클래스를 작성한다고 생각하면 좋을 것 같다.
 
+### SecurityFilterChain
+* 스프링 시큐리티에서 보안 설정을 구성하는 인터페이스이다.
+
 ### UserDetailsService / UserDetails
 * <b>UserDetailsService</b> : 스프링 시큐리티에서 제공하는 인터페이스 중 하나로 사용자 정보를 가져오는 loadUserByUsername 메소드를 갖고 있다.
 
@@ -42,4 +45,5 @@ JSON 웹 토큰은 선택적 서명 및 선택적 암호화를 사용하여 데�
 
 ## 프로젝트를 진행하며 내가 이해한 것
 1. CustomSecurityConfig 클래스에서 로그인 처리와 관련된 기능을 설정해준다.
-2. CustomSecurityConfig 클래스에서 userDetailsService 구현 객체를 AuthenticationManger로 설정해주고, 그것을 활용해서 db에 저장된 사용자 정보 (id, pwd)와 대조해서 로그인을 처리한다.
+2. SecurityFilterChain 에서 로그인 처리와 관련된 것들을 해주면 된다. 즉, 로그인 인증 과정, jwt 토큰 발급과 같은 것들을 얘기하는 것이다. 따라서, 다음 3번에 나오는 것들도 SecurityFilterChain 내에서 처리하도록 정의하거나 메소드를 실행하면 된다.
+3. CustomSecurityConfig 클래스에서 userDetailsService 구현 객체를 AuthenticationManger로 설정해주고, 그것을 활용해서 db에 저장된 사용자 정보 (id, pwd)와 대조해서 로그인을 처리한다.
