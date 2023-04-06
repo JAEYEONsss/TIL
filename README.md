@@ -23,6 +23,7 @@
 * [JPA 사용 시 콘솔에서 쿼리 확인](https://github.com/JAEYEONsss/TIL/blob/main/Spring/JPA_log.md)
 * [스프링 계층 구조 정리](https://github.com/JAEYEONsss/TIL/blob/main/Spring/LayerdArchitecture.md)
 * [REST란?](https://github.com/JAEYEONsss/TIL/blob/main/Spring/REST_API.md)
+* [내가 이해한 SpringSecurity](https://github.com/JAEYEONsss/TIL/blob/main/Spring/SpringSeucurity.md)
 
 ### MarkDown
 * [마크다운에서 링크걸기](https://github.com/JAEYEONsss/TIL/blob/main/MarkDown/Link.md)
