@@ -34,6 +34,8 @@
     |-Handler
         |-LoginSuccessHandler.Java
     |-CustomUserDetailService.Java
+|-Util
+    |-JWTUtil.Java
 ```
 * 위와 같은 구조로 프로젝트를 만들어서 진행했습니다.   
 앞으로 작성할 글은 위의 파일들과 함께, 로그인 진행 과정에 대해서 설명하겠습니다.
