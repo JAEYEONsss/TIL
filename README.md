@@ -79,3 +79,4 @@
 
 ### 파란학기제
 * [로그인 구현과정-1](https://github.com/JAEYEONsss/TIL/blob/main/Paran/Login_1.md)
+* [로그인 구현과정-2](https://github.com/JAEYEONsss/TIL/blob/main/Paran/Login_2.md)
