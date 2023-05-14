@@ -84,3 +84,6 @@
 * [로그인 구현과정-4](https://github.com/JAEYEONsss/TIL/blob/main/Paran/Login_4.md)
 * [로그인 구현과정-5](https://github.com/JAEYEONsss/TIL/blob/main/Paran/Login_5.md)
 * [로그인 구현과정-6](https://github.com/JAEYEONsss/TIL/blob/main/Paran/Login_6.md)
+
+## 취업 관련
+* [aws 취업 강의 - 1](https://github.com/JAEYEONsss/TIL/blob/main/employment/AWS_Session_1.md)
