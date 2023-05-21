@@ -69,7 +69,7 @@
 
 ### AWS
 * [서버 배포 문제 해결 과정](https://github.com/JAEYEONsss/TIL/blob/main/AWS/%EB%AA%A8%EA%B0%81%EC%86%8C_0130_%EA%B4%80%EB%A0%A8.md)
-
+* [nohup을 이용한 무중단 서비스](https://github.com/JAEYEONsss/TIL/blob/main/AWS/%EB%AC%B4%EC%A4%91%EB%8B%A8%EC%84%9C%EB%B9%84%EC%8A%A4.md)
 ### 모각소
 * [1월 10일 스터디](https://github.com/JAEYEONsss/TIL/blob/main/MOGAKSO/0110/0110.md)
 * [1월 17일 스터디](https://github.com/JAEYEONsss/TIL/blob/main/MOGAKSO/0117/0117.md)
@@ -85,5 +85,5 @@
 * [로그인 구현과정-5](https://github.com/JAEYEONsss/TIL/blob/main/Paran/Login_5.md)
 * [로그인 구현과정-6](https://github.com/JAEYEONsss/TIL/blob/main/Paran/Login_6.md)
 
-## 취업 관련
+### 취업 관련
 * [aws 취업 강의 - 1](https://github.com/JAEYEONsss/TIL/blob/main/employment/AWS_Session_1.md)
