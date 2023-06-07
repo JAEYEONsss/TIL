@@ -88,4 +88,4 @@
 ### 취업 관련
 * [aws 취업 강의 - 1](https://github.com/JAEYEONsss/TIL/blob/main/employment/AWS_Session_1.md)
 * [aws 취업 강의 - 2](https://github.com/JAEYEONsss/TIL/blob/main/employment/AWS_Session_2.md)
-* [aws working backward - 1](https://github.com/JAEYEONsss/TIL/blob/main/employment/AWS_Working_Backward.md)
+* [aws working backward](https://github.com/JAEYEONsss/TIL/blob/main/employment/AWS_Working_Backward.md)
