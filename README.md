@@ -40,6 +40,7 @@
 ### Algorithm
 * [슬라이딩 윈도우](https://github.com/JAEYEONsss/TIL/blob/main/Algorithm/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%94%A9%20%EC%9C%88%EB%8F%84%EC%9A%B0.md)
 * [소수찾기](https://github.com/JAEYEONsss/TIL/blob/main/Algorithm/findPrimeNum.md)
+* [약수의 개수](https://github.com/JAEYEONsss/TIL/blob/main/Algorithm/findDivisor.md)
 ### 백준
 - Bronze
     * [2309번](https://github.com/JAEYEONsss/TIL/blob/main/Bronze/2309.py)
