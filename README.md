@@ -37,7 +37,7 @@
 * [github 관련 팁](https://github.com/JAEYEONsss/TIL/blob/main/TIP/Github.md)
 * [파이썬 코테 관련 라이브러리 팁](https://github.com/JAEYEONsss/TIL/blob/main/TIP/Python/library.md)
 * [enumerate](https://github.com/JAEYEONsss/TIL/blob/main/TIP/Python/enumerate.md)
-* [enumerate](https://github.com/JAEYEONsss/TIL/blob/main/TIP/Python/startAndEnd.md)
+* [_with](https://github.com/JAEYEONsss/TIL/blob/main/TIP/Python/startAndEnd.md)
 
 
 ### Algorithm
