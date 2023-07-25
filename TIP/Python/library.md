@@ -132,7 +132,7 @@ from itertools import permutations
 
 data = ['A', 'B', 'C']
 
-result = list(permutations(data,3))#data 중 3개를 뽑아 나열 (순열)
+result = list(permutations(data,3))#data 중 3개를 뽑아 나열 (순열) 중복 없음
 
 print(result)
 
@@ -144,9 +144,9 @@ print(result)
 ```python
 from itertools import combinations
 
-data = ['A','B']
+data = ['A','B','C']
 
-result = list(combinations(data, 2))# data 중 2개를 뽑아 순서없이 나열(조합)
+result = list(combinations(data, 2))# data 중 2개를 뽑아 순서없이 나열(조합) 중복 없음
 
 print(result)
 
