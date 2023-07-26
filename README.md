@@ -38,7 +38,7 @@
 * [파이썬 코테 관련 라이브러리 팁](https://github.com/JAEYEONsss/TIL/blob/main/TIP/Python/library.md)
 * [enumerate](https://github.com/JAEYEONsss/TIL/blob/main/TIP/Python/enumerate.md)
 * [_with](https://github.com/JAEYEONsss/TIL/blob/main/TIP/Python/startAndEnd.md)
-* [upDown](https://github.com/JAEYEONsss/TIL/blob/main/TIP/Python/upDown.md)
+* [upDown](https://github.com/JAEYEONsss/TIL/blob/main/TIP/Python/up_down.md)
 * [sort_dict](https://github.com/JAEYEONsss/TIL/blob/main/TIP/Python/sorting_dict.md)
 
 
