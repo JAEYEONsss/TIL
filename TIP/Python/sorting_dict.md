@@ -1,4 +1,4 @@
-# python dictionary ket/value 정렬
+# python dictionary key/value 정렬
 * dictionary를 사용했을 때,  key 혹은 value를 기준으로 dictionary를 정렬할 필요가 있는 경우가 있다.
 
 ## key 기준 정렬
