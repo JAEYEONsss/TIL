@@ -77,7 +77,7 @@
 
 
 ### AWS
-* [서버 배포 문제 해결 과정](https://github.com/JAEYEONsss/TIL/blob/main/AWS/%EB%AA%A8%EA%B0%81%EC%86%8C_0130_%EA%B4%80%EB%A0%A8.md)
+* [서버 배포 문제 해결 과정](https://github.com/JAEYEONsss/TIL/blob/main/AWS/%EC%8A%A4%ED%84%B0%EB%94%94_0130_%EA%B4%80%EB%A0%A8.md)
 * [nohup을 이용한 무중단 서비스](https://github.com/JAEYEONsss/TIL/blob/main/AWS/%EB%AC%B4%EC%A4%91%EB%8B%A8%EC%84%9C%EB%B9%84%EC%8A%A4.md)
 
 ### 스터디 진행
@@ -88,12 +88,12 @@
 * [2월 15일 스터디](https://github.com/JAEYEONsss/TIL/blob/main/Study/0215/0215.md)
 
 ### 유통기한 임박 식품 판매 프로젝트
-* [로그인 구현과정-1](https://github.com/JAEYEONsss/TIL/blob/main/Paran/Login_1.md)
-* [로그인 구현과정-2](https://github.com/JAEYEONsss/TIL/blob/main/Paran/Login_2.md)
-* [로그인 구현과정-3](https://github.com/JAEYEONsss/TIL/blob/main/Paran/Login_3.md)
-* [로그인 구현과정-4](https://github.com/JAEYEONsss/TIL/blob/main/Paran/Login_4.md)
-* [로그인 구현과정-5](https://github.com/JAEYEONsss/TIL/blob/main/Paran/Login_5.md)
-* [로그인 구현과정-6](https://github.com/JAEYEONsss/TIL/blob/main/Paran/Login_6.md)
+* [로그인 구현과정-1](https://github.com/JAEYEONsss/TIL/blob/main/Project/Login_1.md)
+* [로그인 구현과정-2](https://github.com/JAEYEONsss/TIL/blob/main/Project/Login_2.md)
+* [로그인 구현과정-3](https://github.com/JAEYEONsss/TIL/blob/main/Project/Login_3.md)
+* [로그인 구현과정-4](https://github.com/JAEYEONsss/TIL/blob/main/Project/Login_4.md)
+* [로그인 구현과정-5](https://github.com/JAEYEONsss/TIL/blob/main/Project/Login_5.md)
+* [로그인 구현과정-6](https://github.com/JAEYEONsss/TIL/blob/main/Project/Login_6.md)
 
 ### 취업 관련
 * [aws 취업 강의 - 1](https://github.com/JAEYEONsss/TIL/blob/main/employment/AWS_Session_1.md)
