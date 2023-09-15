@@ -79,14 +79,15 @@
 ### AWS
 * [서버 배포 문제 해결 과정](https://github.com/JAEYEONsss/TIL/blob/main/AWS/%EB%AA%A8%EA%B0%81%EC%86%8C_0130_%EA%B4%80%EB%A0%A8.md)
 * [nohup을 이용한 무중단 서비스](https://github.com/JAEYEONsss/TIL/blob/main/AWS/%EB%AC%B4%EC%A4%91%EB%8B%A8%EC%84%9C%EB%B9%84%EC%8A%A4.md)
-### 모각소
+
+### 스터디 진행
 * [1월 10일 스터디](https://github.com/JAEYEONsss/TIL/blob/main/Study/0110/0110.md)
 * [1월 17일 스터디](https://github.com/JAEYEONsss/TIL/blob/main/Study/0117/0117.md)
 * [1월 28일 스터디](https://github.com/JAEYEONsss/TIL/blob/main/Study/0128/0128.md)
 * [1월 30일 스터디](https://github.com/JAEYEONsss/TIL/blob/main/Study/0130/0130.md)
 * [2월 15일 스터디](https://github.com/JAEYEONsss/TIL/blob/main/Study/0215/0215.md)
 
-### 파란학기제
+### 유통기한 임박 식품 판매 프로젝트
 * [로그인 구현과정-1](https://github.com/JAEYEONsss/TIL/blob/main/Paran/Login_1.md)
 * [로그인 구현과정-2](https://github.com/JAEYEONsss/TIL/blob/main/Paran/Login_2.md)
 * [로그인 구현과정-3](https://github.com/JAEYEONsss/TIL/blob/main/Paran/Login_3.md)
